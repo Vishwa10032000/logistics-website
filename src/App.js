@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+// import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Components/Navbar';
@@ -7,14 +7,19 @@ import Footer from './Components/Footer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
+    {/* <BrowserRouter>
     <Navbar/>
     <Home/>
-    {/* <Routes>
+    <Routes>
       <Route path='/' element={<Home/>}/>
-    </Routes> */}
+    </Routes>
     <Footer/>
-    </BrowserRouter>
+    </BrowserRouter> */}
+    <Navbar/>
+    <Home/>
+    <Footer/>
+    </>
   );
 }
 
