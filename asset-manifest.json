@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/logistics-website/static/css/main.84bf9882.css",
-    "main.js": "/logistics-website/static/js/main.a74abbba.js",
+    "main.js": "/logistics-website/static/js/main.ab721d99.js",
     "static/js/453.077f20e7.chunk.js": "/logistics-website/static/js/453.077f20e7.chunk.js",
     "static/media/WhyChooseAs.mp4": "/logistics-website/static/media/WhyChooseAs.943f748e98b121fa3b3c.mp4",
     "static/media/globe 10.mp4": "/logistics-website/static/media/globe 10.f0d1cec9c7194def3952.mp4",
@@ -26,11 +26,11 @@
     "static/media/Facebook.svg": "/logistics-website/static/media/Facebook.9e4d9a8d24b1ac6171995d1f2d3f77d1.svg",
     "static/media/TrackingIcon.svg": "/logistics-website/static/media/TrackingIcon.22fc11f4d75c884d3660af43175f0676.svg",
     "main.84bf9882.css.map": "/logistics-website/static/css/main.84bf9882.css.map",
-    "main.a74abbba.js.map": "/logistics-website/static/js/main.a74abbba.js.map",
+    "main.ab721d99.js.map": "/logistics-website/static/js/main.ab721d99.js.map",
     "453.077f20e7.chunk.js.map": "/logistics-website/static/js/453.077f20e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84bf9882.css",
-    "static/js/main.a74abbba.js"
+    "static/js/main.ab721d99.js"
   ]
 }
