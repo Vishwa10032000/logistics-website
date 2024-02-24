@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/logistics-website/static/css/main.84bf9882.css",
+    "main.js": "/logistics-website/static/js/main.1e449ee5.js",
+    "static/js/453.077f20e7.chunk.js": "/logistics-website/static/js/453.077f20e7.chunk.js",
+    "static/media/WhyChooseAs.mp4": "/logistics-website/static/media/WhyChooseAs.943f748e98b121fa3b3c.mp4",
+    "static/media/globe 10.mp4": "/logistics-website/static/media/globe 10.f0d1cec9c7194def3952.mp4",
+    "static/media/Testimonial3.jpg": "/logistics-website/static/media/Testimonial3.6b7cecf48d2c079261e0.jpg",
+    "static/media/03.jpg": "/logistics-website/static/media/03.3c9160051b282a2063ea.jpg",
+    "static/media/Testimonial1.jpg": "/logistics-website/static/media/Testimonial1.f941abf371842f3d8480.jpg",
+    "static/media/FlightCroped.jpg": "/logistics-website/static/media/FlightCroped.60341b1391d3ca1eef97.jpg",
+    "static/media/01.jpg": "/logistics-website/static/media/01.adf1a864d2cece288266.jpg",
+    "static/media/Flight.jpg": "/logistics-website/static/media/Flight.59d07bdbe21f184339a5.jpg",
+    "static/media/ShipCroped.jpg": "/logistics-website/static/media/ShipCroped.3c4e791523590c3c87ab.jpg",
+    "static/media/Tracks.jpg": "/logistics-website/static/media/Tracks.d77aeafd13badf671e94.jpg",
+    "static/media/Shipments.jpg": "/logistics-website/static/media/Shipments.9dc9dde0771b856e4952.jpg",
+    "static/media/Testimonial2.jpg": "/logistics-website/static/media/Testimonial2.c23f44dc811701609c25.jpg",
+    "static/media/02.jpg": "/logistics-website/static/media/02.811c750160fe0d994976.jpg",
+    "static/media/Instagram.svg": "/logistics-website/static/media/Instagram.9a98f609361197cbece683da324991f8.svg",
+    "static/media/SchedulesIcon.svg": "/logistics-website/static/media/SchedulesIcon.916b828483a1adf19d737d4c8587808a.svg",
+    "static/media/RatesIcon.svg": "/logistics-website/static/media/RatesIcon.69fefed953fe4ddf739ee92df1e99814.svg",
+    "static/media/Twiiter.svg": "/logistics-website/static/media/Twiiter.16be247f8bc36a9dab214ce091fd9158.svg",
+    "index.html": "/logistics-website/index.html",
+    "static/media/LinkedIn.svg": "/logistics-website/static/media/LinkedIn.0d26f025bef5a1d1707d10432193a070.svg",
+    "static/media/ProfileIcon.svg": "/logistics-website/static/media/ProfileIcon.9cd729ae47609e7b76bccdd3fc2e273a.svg",
+    "static/media/Facebook.svg": "/logistics-website/static/media/Facebook.9e4d9a8d24b1ac6171995d1f2d3f77d1.svg",
+    "static/media/TrackingIcon.svg": "/logistics-website/static/media/TrackingIcon.22fc11f4d75c884d3660af43175f0676.svg",
+    "main.84bf9882.css.map": "/logistics-website/static/css/main.84bf9882.css.map",
+    "main.1e449ee5.js.map": "/logistics-website/static/js/main.1e449ee5.js.map",
+    "453.077f20e7.chunk.js.map": "/logistics-website/static/js/453.077f20e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bf9882.css",
+    "static/js/main.1e449ee5.js"
+  ]
+}
